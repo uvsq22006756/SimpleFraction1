@@ -8,7 +8,7 @@ public class SimpleFraction1{
     }
 
     public String toString(){
-        return "la fraction a pour " + numerateur + " et pour denominateur" + denominateur;
+        return "la fraction a pour " + (numerateur / denominateur) ;
     }
 
 
